@@ -1,0 +1,24 @@
+{
+  "name": "week-1",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirajtimila/webUI.git"
+  },
+  "author": "Niraj Timila",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/nirajtimila/bootstrap#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "git": "^0.1.5"
+  }
+}
